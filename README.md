@@ -19,7 +19,8 @@ To fit the hand-in specifications of my course which this project was developed 
 ### Installing
 
 * A full list of dependencies is available in the python file and jupyter notebook, though the project requires the installation of:
-     * matplotlib, pandas, numpy, and nltk
+     * matplotlib, pandas, numpy, nltk, and flair
+     * among others.
 * The book dataset is available here: https://www.kaggle.com/datasets/meetnaren/goodreads-best-books
 * The spotify song-list is available here: https://open.spotify.com/playlist/4eIxXnvi5KeTMPAzcgwSud?si=d057c60b2e6e4c4d
 
